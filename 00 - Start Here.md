@@ -10,6 +10,7 @@ Your go-to reference for writing clear, consistent, on-brand copy.
 - [[Brand Voice/Words to Avoid|Words to Avoid]] — Swaps for common problem words
 
 ### Skills
+- [[skills/pipeline|Content Pipeline]] — Take any concept from idea to scored, style-guide-ready copy
 - [[skills/tone-checker|Tone Checker]] — Review copy against brand voice guidelines
 - [[skills/learn|Learn]] — Teach Claude new brand decisions and patterns
 
